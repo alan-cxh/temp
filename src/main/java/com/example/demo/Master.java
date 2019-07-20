@@ -5,4 +5,6 @@ package com.example.demo;
  * @date 2019/7/18
  */
 public class Master {
+
+    //0000
 }
